@@ -1,0 +1,110 @@
+[
+    {
+        "_id": "ABC12DEF",
+        "name": "Maggie Beer",
+        "experience": 40,
+        "recipes": 350,
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Maggie_Beer.jpg",
+        "bio": "Maggie Beer is an Australian chef, restaurateur, and television personality. She is known for her focus on using locally-sourced, seasonal ingredients in her cooking. Beer has published several cookbooks and has won numerous awards for her contributions to the food industry.",
+        "recipes_list": [
+            "Slow-roasted Pork Belly with Fennel and Apple",
+            "Lemon Myrtle and Macadamia Nut Pavlova",
+            "Best recipe: Verjuice Roast Chicken with Fennel and Parsnips",
+            "Caramelised Onion and Goat's Cheese Tartlets",
+            "Grilled Scallops with Chilli and Lime"
+        ]
+    },
+    {
+        "_id": "GHI34JKL",
+        "name": "Curtis Stone",
+        "experience": 20,
+        "recipes": 300,
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Curtis_Stone_2009.jpg",
+        "bio": "Curtis Stone is an Australian celebrity chef, author, and television personality. He is the owner of several restaurants in the United States and Australia, and has published several cookbooks. Stone is known for his focus on fresh, locally-sourced ingredients in his cooking.",
+        "recipes_list": [
+            "Grilled Lamb with Chimichurri Sauce",
+            "Spiced Carrot Soup with Yogurt and Crispy Chickpeas",
+            "Best recipe: Slow-cooked Beef Short Ribs with Red Wine Sauce",
+            "Prawn and Scallop Linguine with Tomato and Basil",
+            "Sticky Date Pudding with Butterscotch Sauce",
+            "Roast Pork Loin with Apple and Sage Stuffing"
+        ]
+    },
+    {
+        "_id": "MNO56PQR",
+        "name": "Neil Perry",
+        "experience": 35,
+        "recipes": 250,
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Neil_Perry_Melbourne_food_and_wine_festival.jpg",
+        "bio": "Neil Perry is an Australian chef and restaurateur. He is the owner of several acclaimed restaurants in Australia, including Rockpool Bar and Grill in Sydney and Melbourne. Perry is known for his focus on using high-quality, seasonal ingredients in his cooking, and has won numerous awards for his culinary work.",
+        "recipes_list": [
+            "Green Curry of Barramundi with Rice Noodles",
+            "Beetroot and Feta Salad with Mint and Walnuts",
+            "Best recipe: Slow-cooked Beef Brisket with Smoky BBQ Sauce",
+            "Grilled King Prawns with Garlic and Lemon Butter",
+            "Lemon Tart with Raspberry Coulis"
+        ]
+    },
+    {
+        "_id": "XYZ78ABC",
+        "name": "Shannon Bennett",
+        "experience": 30,
+        "recipes": 150,
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Shannon_Bennett.jpg",
+        "bio": "Shannon Bennett is an Australian chef, restaurateur, and cookbook author. He is the owner of several acclaimed restaurants in Melbourne, including Vue de Monde. Bennett is known for his inventive, modern cuisine and has won numerous awards for his contributions to the food industry.",
+        "recipes_list": [
+            "Roast Lamb with Salsa Verde and Roasted Vegetables",
+            "Pea and Ham Soup with Crusty Bread",
+            "Best recipe: Slow-cooked Beef Cheeks with Red Wine and Mushroom Sauce",
+            "Poached Salmon with Asparagus and Hollandaise Sauce",
+            "Spiced Apple Cake with Cinnamon Cream"
+        ]
+    },
+    {
+        "_id": "JKL90MNO",
+        "name": "Peter Gilmore",
+        "experience": 25,
+        "recipes": 100,
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Peter_Gilmore_Sydney_food_and_wine_festival.jpg",
+        "bio": "Peter Gilmore is an Australian chef and author. He is the executive chef of Quay, a restaurant in Sydney that has been awarded three hats by the Good Food Guide. Gilmore is known for his innovative, nature-inspired cuisine and has won numerous awards for his culinary work.",
+        "recipes_list": [
+            "Grilled Wagyu Beef with Mushroom Sauce and Roasted Potatoes",
+            "Chilled Tomato and Basil Soup with Croutons",
+            "Best recipe: Slow-cooked Lamb Shoulder with Rosemary and Garlic",
+            "Prawn and Avocado Salad with Lime Dressing",
+            "Vanilla and Rhubarb Panna Cotta"
+        ]
+    },
+    {
+        "_id": "PQR23STU",
+        "name": "Ben Shewry",
+        "experience": 20,
+        "recipes": 80,
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/78/Ben_Shewry_at_the_Worlds_50_Best_Restaurants_2013.jpg",
+        "bio": "Ben Shewry is a New Zealand-born Australian chef and restaurateur. He is the owner and head chef of Attica, a restaurant in Melbourne that has been awarded three hats by the Good Food Guide. Shewry is known for his use of native Australian ingredients in his cooking and has won numerous awards for his culinary work.",
+        "recipes_list": [
+            "Kangaroo Tartare with Finger Lime and Quandong",
+            "Roasted Cauliflower with Tahini and Pomegranate",
+            "Best recipe: Slow-cooked Lamb Shoulder with Native Herbs",
+            "Grilled Prawns with Lemon Myrtle Butter",
+            "Apple and Quince Crumble with Wattleseed Ice Cream",
+            "Pork and Fennel Sausage Rolls"
+        ]
+    },
+    {
+        "_id": "STU45VWX",
+        "name": "Luke Mangan",
+        "experience": 25,
+        "recipes": 150,
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Luke_Mangan.jpg",
+        "bio": "Luke Mangan is an Australian chef and restaurateur. He is the owner of several acclaimed restaurants in Australia, including Glass Brasserie at the Hilton Hotel in Sydney. Mangan is known for his modern Australian cuisine and has won numerous awards for his culinary work.",
+        "recipes_list": [
+            "Grilled Barramundi with Roasted Vegetables",
+            "Chicken and Leek Pie with Buttery Pastry",
+            "Best recipe: Slow-cooked Beef Cheeks with Red Wine Sauce",
+            "Pumpkin Soup with Toasted Seeds and Crusty Bread",
+            "Chocolate and Hazelnut Brownies",
+            "Roasted Beetroot and Goat's Cheese Salad"
+        ]
+    }
+]
