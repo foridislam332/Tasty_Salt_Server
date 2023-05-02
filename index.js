@@ -18,6 +18,13 @@ app.get('/chef', (req, res) => {
     res.send(chef)
 })
 
+// find single chef
+app.get('/chef/:id', (req, res) => {
+    const id = req.params.id;
+    const findChef = chef.find(item => item._id == id)
+    res.send(findChef)
+})
+
 app.listen(port, () => {
     console.log("running port is :", port)
 })
