@@ -2,37 +2,37 @@
     {
         "_id": "a1b2c3",
         "name": "Chocolate Cake",
-        "img_url": "https://example.com/chocolate-cake.jpg",
+        "img_url": "https://i.ibb.co/thf2ZhT/menu-2.jpg",
         "description": "Decadent chocolate cake made with rich, dark chocolate and topped with a fluffy buttercream frosting."
     },
     {
         "_id": "d4e5f6",
         "name": "Blueberry Muffin",
-        "img_url": "https://example.com/blueberry-muffin.jpg",
+        "img_url": "https://i.ibb.co/2yD1H0N/menu-4.jpg",
         "description": "Freshly baked muffin filled with juicy blueberries and topped with a crumbly streusel topping."
     },
     {
         "_id": "g7h8i9",
         "name": "Pecan Pie",
-        "img_url": "https://example.com/pecan-pie.jpg",
+        "img_url": "https://i.ibb.co/dbMdv1f/menu-3.jpg",
         "description": "Classic southern pie filled with a sweet, gooey mixture of pecans and corn syrup."
     },
     {
         "_id": "j1k2l3",
         "name": "Banana Bread",
-        "img_url": "https://example.com/banana-bread.jpg",
+        "img_url": "https://i.ibb.co/6R4drbg/menu-1.jpg",
         "description": "Moist and flavorful bread made with ripe bananas, cinnamon, and vanilla."
     },
     {
         "_id": "m4n5o6",
         "name": "Strawberry Shortcake",
-        "img_url": "https://example.com/strawberry-shortcake.jpg",
+        "img_url": "https://i.ibb.co/yfw3wbh/menu-6.jpg",
         "description": "Light and fluffy cake layered with sweetened whipped cream and fresh strawberries."
     },
     {
         "_id": "p7q8r9",
         "name": "Chocolate Chip Cookies",
-        "img_url": "https://example.com/chocolate-chip-cookies.jpg",
+        "img_url": "https://i.ibb.co/vjspMFq/menu-5.jpg",
         "description": "Classic cookies made with butter, brown sugar, and lots of chocolate chips."
     }
 ]
