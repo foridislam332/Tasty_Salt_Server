@@ -1,110 +1,334 @@
 [
     {
-        "_id": "ABC12DEF",
+        "_id": "PQR67STU",
+        "name": "Curtis Stone",
+        "experience": 25,
+        "recipes": 75,
+        "image_url": "https://i.ibb.co/W0CHt24/Curtis-Stone.jpg",
+        "bio": "Curtis Stone is an Australian celebrity chef, author, and television personality. He has appeared in several cooking shows, including 'Take Home Chef' and 'Top Chef Masters.' Stone owns and operates several restaurants, including Maude in Beverly Hills and Gwen Butcher Shop & Restaurant in Hollywood.",
+        "best_recipe": "Pan-Seared Sea Bass with Asparagus and Cherry Tomatoes",
+        "recipes_list": [
+            {
+                "name": "Grilled Lamb Chops with Mint Pesto",
+                "cooking_method": "Grilled",
+                "ingredients": [
+                    "8 lamb chops",
+                    "1/4 cup olive oil",
+                    "1/4 cup chopped fresh mint",
+                    "1/4 cup chopped fresh parsley",
+                    "2 garlic cloves, minced",
+                    "Salt and pepper to taste"
+                ],
+                "rating": 4.6
+            },
+            {
+                "name": "Spicy Shrimp Linguine",
+                "cooking_method": "Boiled",
+                "ingredients": [
+                    "500g linguine",
+                    "1kg shrimp, peeled and deveined",
+                    "2 garlic cloves, minced",
+                    "1/2 teaspoon red pepper flakes",
+                    "1/2 cup white wine",
+                    "1/2 cup chicken stock",
+                    "1/4 cup butter",
+                    "1/4 cup chopped fresh parsley",
+                    "1 lemon, juiced and zested"
+                ],
+                "rating": 4.8
+            },
+            {
+                "name": "Roasted Carrots with Yogurt and Dill",
+                "cooking_method": "Roasted",
+                "ingredients": [
+                    "1kg carrots, peeled and sliced",
+                    "1/4 cup olive oil",
+                    "1 teaspoon cumin seeds",
+                    "1 teaspoon coriander seeds",
+                    "Salt and pepper to taste",
+                    "1/2 cup Greek yogurt",
+                    "2 tablespoons chopped fresh dill",
+                    "1 lemon, juiced"
+                ],
+                "rating": 4.3
+            }
+        ],
+        "phone": "+1 323-946-7513",
+        "email": "info@curtisstone.com"
+    },
+    {
+        "_id": "PQR67STU",
+        "name": "Neil Perry",
+        "experience": 40,
+        "recipes": 120,
+        "image_url": "https://i.ibb.co/3YtMM4r/Neil-Perry.jpg",
+        "bio": "Neil Perry is an Australian chef, restaurateur, and cookbook author. He is the founder of the Rockpool Dining Group, which operates several acclaimed restaurants in Australia and Asia. Perry is known for his contemporary Australian cuisine and his emphasis on using high-quality, locally sourced ingredients.",
+        "best_recipe": "Crispy-Skin Salmon with Broccoli and Quinoa Salad",
+        "recipes_list": [
+            {
+                "name": "Slow-Roasted Lamb Shoulder",
+                "cooking_method": "Roasted",
+                "ingredients": [
+                    "1 lamb shoulder, bone-in",
+                    "4 garlic cloves, sliced",
+                    "2 sprigs fresh rosemary",
+                    "2 sprigs fresh thyme",
+                    "2 tbsp olive oil",
+                    "Salt and pepper to taste",
+                    "1 cup chicken stock"
+                ],
+                "rating": 4.6
+            },
+            {
+                "name": "Prawn and Scallop Linguine",
+                "cooking_method": "Boiled",
+                "ingredients": [
+                    "500g linguine",
+                    "500g prawns, peeled and deveined",
+                    "500g scallops",
+                    "2 garlic cloves, minced",
+                    "1/2 teaspoon red pepper flakes",
+                    "1/2 cup white wine",
+                    "1/2 cup chicken stock",
+                    "1/4 cup butter",
+                    "1/4 cup chopped fresh parsley",
+                    "1 lemon, juiced and zested"
+                ],
+                "rating": 4.7
+            },
+            {
+                "name": "Roasted Pumpkin and Feta Salad",
+                "cooking_method": "Roasted",
+                "ingredients": [
+                    "1/2 butternut pumpkin, peeled and diced",
+                    "2 tbsp olive oil",
+                    "Salt and pepper to taste",
+                    "4 cups mixed salad greens",
+                    "1/2 red onion, sliced",
+                    "1/2 cup cherry tomatoes, halved",
+                    "1/2 cup crumbled feta cheese",
+                    "1/4 cup toasted pine nuts"
+                ],
+                "rating": 4.4
+            }
+        ],
+        "phone": "+61 2 8099 7077",
+        "email": "info@rockpooldininggroup.com.au"
+    },
+    {
+        "_id": "ASD678FRT",
+        "name": "Matt Preston",
+        "experience": 20,
+        "recipes": 150,
+        "image_url": "https://i.ibb.co/hXnwwxm/Matt-Preston.jpg",
+        "bio": "Matt Preston is an Australian food journalist, restaurant critic, and television personality. He is best known as a judge on the reality television show MasterChef Australia. Preston has also authored several cookbooks and is known for his quirky fashion sense.",
+        "best_recipe": "Crispy Pork Belly with Caramel Sauce",
+        "recipes_list": [
+            {
+                "name": "Prawn and Scallop Linguine",
+                "cooking_method": "Boiled",
+                "ingredients": [
+                    "500g linguine",
+                    "500g prawns, peeled and deveined",
+                    "500g scallops, trimmed",
+                    "4 garlic cloves, minced",
+                    "1/2 cup white wine",
+                    "1/2 cup chicken stock",
+                    "1/4 cup butter",
+                    "1/4 cup chopped fresh parsley",
+                    "1 lemon, juiced and zested"
+                ],
+                "rating": 4.5
+            },
+            {
+                "name": "Lamb Shank Pie",
+                "cooking_method": "Baked",
+                "ingredients": [
+                    "4 lamb shanks",
+                    "1/4 cup olive oil",
+                    "1 onion, chopped",
+                    "2 carrots, chopped",
+                    "2 celery stalks, chopped",
+                    "2 garlic cloves, minced",
+                    "2 tbsp tomato paste",
+                    "1/2 cup red wine",
+                    "2 cups beef stock",
+                    "1 tbsp chopped fresh thyme",
+                    "Salt and pepper to taste",
+                    "4 sheets puff pastry",
+                    "1 egg, beaten"
+                ],
+                "rating": 4.8
+            },
+            {
+                "name": "Caramelized Onion and Feta Tart",
+                "cooking_method": "Baked",
+                "ingredients": [
+                    "1 sheet frozen puff pastry, thawed",
+                    "4 onions, thinly sliced",
+                    "2 tbsp olive oil",
+                    "1 tbsp brown sugar",
+                    "2 tbsp balsamic vinegar",
+                    "1/2 cup crumbled feta cheese",
+                    "Salt and pepper to taste",
+                    "1 egg, beaten"
+                ],
+                "rating": 4.6
+            }
+        ],
+        "phone": "+61 3 9486 0168",
+        "email": "info@mattskitchen.com.au"
+    },
+    {
+        "_id": "GHI78JKL",
+        "name": "Peter Gilmore",
+        "experience": 35,
+        "recipes": 120,
+        "image_url": "https://i.ibb.co/4jBpyNW/peter-gilmore.jpg",
+        "bio": "Peter Gilmore is an Australian chef who is known for his work at Quay and Bennelong, two of Sydney's most prestigious restaurants. He is known for his use of organic and sustainable produce in his dishes, as well as his focus on creating visually stunning plates that are inspired by nature.",
+        "best_recipe": "Snow Egg",
+        "recipes_list": [
+            {
+                "name": "Marron with Lemon Aspen and Cultured Cream",
+                "cooking_method": "Grilled",
+                "ingredients": [
+                    "2 marron",
+                    "1/4 cup lemon aspen puree",
+                    "1/4 cup cultured cream",
+                    "2 tbsp butter",
+                    "Salt and pepper"
+                ],
+                "rating": 4.9
+            },
+            {
+                "name": "Wagyu Beef with Black Fungus and Seaweed",
+                "cooking_method": "Grilled",
+                "ingredients": [
+                    "400g wagyu beef",
+                    "1/4 cup black fungus",
+                    "1/4 cup seaweed",
+                    "2 garlic cloves, minced",
+                    "2 tbsp olive oil",
+                    "Salt and pepper"
+                ],
+                "rating": 4.7
+            },
+            {
+                "name": "Sourdough with Macadamia Butter and Honeycomb",
+                "cooking_method": "Toasted",
+                "ingredients": [
+                    "2 slices sourdough bread",
+                    "1/4 cup macadamia butter",
+                    "1/4 cup honeycomb",
+                    "2 tbsp olive oil",
+                    "Salt and pepper"
+                ],
+                "rating": 4.6
+            }
+        ],
+        "phone": "+61 2 9251 5600",
+        "email": "info@quay.com.au"
+    },
+    {
+        "_id": "GHI18JKL",
         "name": "Maggie Beer",
         "experience": 40,
-        "recipes": 350,
-        "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Maggie_Beer.jpg",
-        "bio": "Maggie Beer is an Australian chef, restaurateur, and television personality. She is known for her focus on using locally-sourced, seasonal ingredients in her cooking. Beer has published several cookbooks and has won numerous awards for her contributions to the food industry.",
+        "recipes": 400,
+        "image_url": "https://i.ibb.co/sR9dtp2/Maggie-Beer.jpg",
+        "bio": "Maggie Beer is an Australian chef, food author, and television personality. She is known for her focus on regional, seasonal ingredients and for popularizing the use of verjuice in Australian cuisine.",
+        "best_recipe": "Quince and Almond Cake",
         "recipes_list": [
-            "Slow-roasted Pork Belly with Fennel and Apple",
-            "Lemon Myrtle and Macadamia Nut Pavlova",
-            "Best recipe: Verjuice Roast Chicken with Fennel and Parsnips",
-            "Caramelised Onion and Goat's Cheese Tartlets",
-            "Grilled Scallops with Chilli and Lime"
-        ]
+            {
+                "name": "Lamb Shanks with Quince and Red Wine",
+                "cooking_method": "Slow-cooked",
+                "ingredients": [
+                    "4 lamb shanks",
+                    "2 quinces, peeled and quartered",
+                    "2 cups red wine",
+                    "1 onion, chopped",
+                    "2 garlic cloves, minced",
+                    "2 tbsp olive oil",
+                    "Salt and pepper"
+                ],
+                "rating": 4.6
+            },
+            {
+                "name": "Pan-fried Snapper with Lemon and Dill",
+                "cooking_method": "Pan-fried",
+                "ingredients": [
+                    "4 snapper fillets",
+                    "1 lemon, sliced",
+                    "1/4 cup fresh dill",
+                    "2 tbsp butter",
+                    "Salt and pepper"
+                ],
+                "rating": 4.3
+            },
+            {
+                "name": "Roast Chicken with Sage and Verjuice",
+                "cooking_method": "Roasted",
+                "ingredients": [
+                    "1 whole chicken",
+                    "1/2 cup verjuice",
+                    "1/4 cup fresh sage leaves",
+                    "2 garlic cloves, minced",
+                    "2 tbsp olive oil",
+                    "Salt and pepper"
+                ],
+                "rating": 4.7
+            }
+        ],
+        "phone": "+61 8 8562 4477",
+        "email": "cellardoor@maggiebeer.com.au"
     },
     {
-        "_id": "GHI34JKL",
-        "name": "Curtis Stone",
-        "experience": 20,
-        "recipes": 300,
-        "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Curtis_Stone_2009.jpg",
-        "bio": "Curtis Stone is an Australian celebrity chef, author, and television personality. He is the owner of several restaurants in the United States and Australia, and has published several cookbooks. Stone is known for his focus on fresh, locally-sourced ingredients in his cooking.",
-        "recipes_list": [
-            "Grilled Lamb with Chimichurri Sauce",
-            "Spiced Carrot Soup with Yogurt and Crispy Chickpeas",
-            "Best recipe: Slow-cooked Beef Short Ribs with Red Wine Sauce",
-            "Prawn and Scallop Linguine with Tomato and Basil",
-            "Sticky Date Pudding with Butterscotch Sauce",
-            "Roast Pork Loin with Apple and Sage Stuffing"
-        ]
-    },
-    {
-        "_id": "MNO56PQR",
-        "name": "Neil Perry",
-        "experience": 35,
-        "recipes": 250,
-        "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Neil_Perry_Melbourne_food_and_wine_festival.jpg",
-        "bio": "Neil Perry is an Australian chef and restaurateur. He is the owner of several acclaimed restaurants in Australia, including Rockpool Bar and Grill in Sydney and Melbourne. Perry is known for his focus on using high-quality, seasonal ingredients in his cooking, and has won numerous awards for his culinary work.",
-        "recipes_list": [
-            "Green Curry of Barramundi with Rice Noodles",
-            "Beetroot and Feta Salad with Mint and Walnuts",
-            "Best recipe: Slow-cooked Beef Brisket with Smoky BBQ Sauce",
-            "Grilled King Prawns with Garlic and Lemon Butter",
-            "Lemon Tart with Raspberry Coulis"
-        ]
-    },
-    {
-        "_id": "XYZ78ABC",
-        "name": "Shannon Bennett",
-        "experience": 30,
-        "recipes": 150,
-        "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Shannon_Bennett.jpg",
-        "bio": "Shannon Bennett is an Australian chef, restaurateur, and cookbook author. He is the owner of several acclaimed restaurants in Melbourne, including Vue de Monde. Bennett is known for his inventive, modern cuisine and has won numerous awards for his contributions to the food industry.",
-        "recipes_list": [
-            "Roast Lamb with Salsa Verde and Roasted Vegetables",
-            "Pea and Ham Soup with Crusty Bread",
-            "Best recipe: Slow-cooked Beef Cheeks with Red Wine and Mushroom Sauce",
-            "Poached Salmon with Asparagus and Hollandaise Sauce",
-            "Spiced Apple Cake with Cinnamon Cream"
-        ]
-    },
-    {
-        "_id": "JKL90MNO",
-        "name": "Peter Gilmore",
-        "experience": 25,
-        "recipes": 100,
-        "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Peter_Gilmore_Sydney_food_and_wine_festival.jpg",
-        "bio": "Peter Gilmore is an Australian chef and author. He is the executive chef of Quay, a restaurant in Sydney that has been awarded three hats by the Good Food Guide. Gilmore is known for his innovative, nature-inspired cuisine and has won numerous awards for his culinary work.",
-        "recipes_list": [
-            "Grilled Wagyu Beef with Mushroom Sauce and Roasted Potatoes",
-            "Chilled Tomato and Basil Soup with Croutons",
-            "Best recipe: Slow-cooked Lamb Shoulder with Rosemary and Garlic",
-            "Prawn and Avocado Salad with Lime Dressing",
-            "Vanilla and Rhubarb Panna Cotta"
-        ]
-    },
-    {
-        "_id": "PQR23STU",
+        "_id": "XYZ45ABC",
         "name": "Ben Shewry",
-        "experience": 20,
-        "recipes": 80,
-        "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/78/Ben_Shewry_at_the_Worlds_50_Best_Restaurants_2013.jpg",
-        "bio": "Ben Shewry is a New Zealand-born Australian chef and restaurateur. He is the owner and head chef of Attica, a restaurant in Melbourne that has been awarded three hats by the Good Food Guide. Shewry is known for his use of native Australian ingredients in his cooking and has won numerous awards for his culinary work.",
-        "recipes_list": [
-            "Kangaroo Tartare with Finger Lime and Quandong",
-            "Roasted Cauliflower with Tahini and Pomegranate",
-            "Best recipe: Slow-cooked Lamb Shoulder with Native Herbs",
-            "Grilled Prawns with Lemon Myrtle Butter",
-            "Apple and Quince Crumble with Wattleseed Ice Cream",
-            "Pork and Fennel Sausage Rolls"
-        ]
-    },
-    {
-        "_id": "STU45VWX",
-        "name": "Luke Mangan",
         "experience": 25,
-        "recipes": 150,
-        "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Luke_Mangan.jpg",
-        "bio": "Luke Mangan is an Australian chef and restaurateur. He is the owner of several acclaimed restaurants in Australia, including Glass Brasserie at the Hilton Hotel in Sydney. Mangan is known for his modern Australian cuisine and has won numerous awards for his culinary work.",
+        "recipes": 80,
+        "image_url": "https://i.ibb.co/WvXCKVY/Ben-Shewry.jpg",
+        "bio": "Ben Shewry is a New Zealand-born chef based in Melbourne, Australia. He is the owner of Attica, a restaurant that has been ranked among the world's best by The World's 50 Best Restaurants. Shewry is known for his innovative, nature-inspired cuisine and his use of indigenous Australian ingredients.",
+        "best_recipe": "Potato Dumplings with Salted Duck Egg and Peas",
         "recipes_list": [
-            "Grilled Barramundi with Roasted Vegetables",
-            "Chicken and Leek Pie with Buttery Pastry",
-            "Best recipe: Slow-cooked Beef Cheeks with Red Wine Sauce",
-            "Pumpkin Soup with Toasted Seeds and Crusty Bread",
-            "Chocolate and Hazelnut Brownies",
-            "Roasted Beetroot and Goat's Cheese Salad"
-        ]
+            {
+                "name": "Marron with Finger Lime and Mountain Pepper",
+                "cooking_method": "Grilled",
+                "ingredients": [
+                    "2 marron",
+                    "1/4 cup finger lime pearls",
+                    "1/4 cup mountain pepper leaves",
+                    "2 tbsp butter",
+                    "Salt and pepper"
+                ],
+                "rating": 4.8
+            },
+            {
+                "name": "Roo Meat with Wattleseed and Quandong",
+                "cooking_method": "Roasted",
+                "ingredients": [
+                    "600g kangaroo meat",
+                    "1/4 cup wattleseed",
+                    "1/4 cup quandong",
+                    "2 garlic cloves, minced",
+                    "2 tbsp olive oil",
+                    "Salt and pepper"
+                ],
+                "rating": 4.5
+            },
+            {
+                "name": "Barramundi with Kakadu Plum and Lemon Myrtle",
+                "cooking_method": "Pan-seared",
+                "ingredients": [
+                    "2 barramundi fillets",
+                    "1/4 cup kakadu plum puree",
+                    "1/4 cup lemon myrtle leaves",
+                    "2 tbsp olive oil",
+                    "Salt and pepper"
+                ],
+                "rating": 4.7
+            }
+        ],
+        "phone": "+61 3 9530 0111",
+        "email": "info@attica.com.au"
     }
 ]
